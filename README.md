@@ -2,5 +2,5 @@
 exercício básico de CSS #estudos
 Marcos Silva | UX/UI Designer - Dev Frontend
 
-Acessar projeto:
+Acessar projeto / PREVIEW: 
 https://marckgag.github.io/Logo-Figma-em-CSS/
